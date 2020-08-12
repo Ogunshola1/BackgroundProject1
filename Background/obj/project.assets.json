@@ -6682,11 +6682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\folak\\source\\repos\\Background\\Background\\Background.csproj",
+      "projectUniqueName": "C:\\Users\\folak\\source\\repos\\Work\\BackgroundProject1\\Background\\Background.csproj",
       "projectName": "Background",
-      "projectPath": "C:\\Users\\folak\\source\\repos\\Background\\Background\\Background.csproj",
+      "projectPath": "C:\\Users\\folak\\source\\repos\\Work\\BackgroundProject1\\Background\\Background.csproj",
       "packagesPath": "C:\\Users\\folak\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\folak\\source\\repos\\Background\\Background\\obj\\",
+      "outputPath": "C:\\Users\\folak\\source\\repos\\Work\\BackgroundProject1\\Background\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\folak\\AppData\\Roaming\\NuGet\\NuGet.Config",
